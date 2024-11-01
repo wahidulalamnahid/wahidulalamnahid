@@ -1,6 +1,6 @@
-### Hi there 👋, Hi There!!
 ![](https://pbs.twimg.com/media/GbTML4QbQAAv4L9?format=jpg&name=4096x4096)
 
+### Hi there!!!
 Hello! I’m Wahidul Alam Nahid, a QA Engineer specializing in Manual Testing. With hands-on experience in identifying and documenting software defects, I ensure quality and reliability in every project I work on. I am passionate about delivering well-tested applications that provide great user experiences.
 
 Skills: JS / HTML / CSS/ JSON / C++ / API Testing /
